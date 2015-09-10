@@ -1,15 +1,16 @@
 # WhoIsEditing
+
 Track wikipedia edits real time 
 
-### Status
+## Status
 
 {This is an ongoing project}
 
-### Purpose
+## Purpose
 
 This project highlights / compares number of wiki edits made by users who belong to two particular region
 
-### Technologies
+## Technologies
 - Datamaps
 - Wikimon
 - D3.js
