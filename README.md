@@ -8,7 +8,7 @@ Track wikipedia edits real time
 
 ## Purpose
 
-This project highlights / compares number of wiki edits made by users who belong to two particular region
+This project highlights / compares number of wiki edits made by users who belong to two particular regions
 
 ## Technologies
 - Datamaps
