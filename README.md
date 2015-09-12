@@ -14,3 +14,7 @@ This project highlights / compares number of wiki edits made by users who belong
 - Datamaps
 - Wikimon
 - D3.js
+
+## Roadmap
+- Include a divider to display the data
+- Include a map
